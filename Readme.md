@@ -12,6 +12,8 @@ Follow the link to find all the necessary 3D files for FarmBot. This can but use
 
 ### FarmBot set up
 https://software.farm.bot/docs/configurator
+</br>
+https://software.farm.bot/docs/farmbot-os
 
 ### Members
 Anthony
