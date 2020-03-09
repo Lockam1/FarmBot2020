@@ -29,3 +29,8 @@ Damian
 Woody
 
 ### Todo:
+
+
+### Done:
+The Team tightened up Farmbot and made sure nothing was loose, we then connected farmbot up to a mobile network to make sure 
+all the parts worked. after fiddling around with the farmbot interface, we go it to move.
