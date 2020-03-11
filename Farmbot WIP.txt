@@ -1,0 +1,29 @@
+Farmbot Setup Instructions *Document WIP*
+
+This is for farmbot on Wi-Fi
+
+
+Farmbot is to be connected to the OP-Mobile network using the psk of "bpdyHDPnBjWR"
+The key used above is specific to the farmbot's MAC address (if you purchase a new pi for farmbot you will have to request a new key for that pi's MAC address), this key will place the device on vlan 35 of OP-Mobile which gives the device unrestricted port access
+
+The students will then connect their devices to the "eduroam" network using their polytech login -student i.e. pangdw1@op.ac.nz instead of pangdw1@student.op.ac.nz
+The password is also the same as their polytech password
+
+From a fresh install you will need to
+
+Part One:
+	- connect to the farmbots wifi
+	- open a browser and enter 192.168.24.1 to connect to farmbot
+	- choose Wi-Fi
+	- because for some reason when you see the avaliable networks their will be no key required for the OP-Mobile network you will instead have to.
+		Click on manual input and type in "OP-Mobile"
+	- you will then be asked to put in a key (use the key listed above in quotes"
+	- you will then be asked to supply a farmbot account, whichever account you use in this step will need to be shared with the farmbot group as they will need to use that account in order to connect
+	- farmbot will then proceed to connect to the OP-Mobile network
+
+Part Two:
+	- The students will then need to connect to the eduroam network on their device
+	- once connected you can then enter "my.farm.bot" *you could change the name when you first set the farmbot up but how many farmbots will there be at polytech* into your devices web browser to connect to farmbot
+	- once on the farmbot browser you will need to go to the device tab and change it to the correct firmware *need to look into this cant remember off the top of my head"  
+
+One might think because the farmbot is on OP-Mobile and the device is in eduroam network that they won’t be able to connect but they can *its pretty cool when you think about it :)*
