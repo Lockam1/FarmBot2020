@@ -8,6 +8,8 @@ https://gitlab.op-bit.nz/BIT/Project/FarmBot/FarmbotWiki
 ### 3D files
 https://sketchfab.com/farmbot/models
 </br>
+https://www.thingiverse.com/thing:2372024
+</br>
 Follow the link to find all the necessary 3D files for FarmBot. This can but used on a 3D print, CNC and lazer cutter.
 
 ### FarmBot set up
