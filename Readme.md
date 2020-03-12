@@ -36,7 +36,7 @@ https://software.farm.bot/docs/for-it-security-professionals
 13)	Wait for it to sync
 14)	Go to device tab and select the Arduino/RAMPS firmware
 15)	Wait for it to install may take a minute or two
-16)	You’re a go
+16)	You’re a goat
 
 
 
