@@ -19,7 +19,7 @@ https://software.farm.bot/docs/farmbot-os
 Important info for server access:</br>
 https://software.farm.bot/docs/for-it-security-professionals
 
-FARMBOT SETUP – Print Out
+### FARMBOT SETUP – Print Out
 
 1)	Flash a fresh Farmbot OS onto the SD Card
 2)	Insert SD Card into Farmbot Device
