@@ -1,6 +1,6 @@
 # FarmBot 2020 Links
 
-###FarmBot Channel
+### FarmBot Channel
 https://www.youtube.com/channel/UC2O2FyrBnJjzyTSKHxpa9_A
 
 ### This project is a hack of the original Farmbot CNC farming machine,
