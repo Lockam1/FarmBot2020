@@ -51,10 +51,13 @@ Damian
 Woody
 
 ### Todo:
-
+ - Limit/bump switches
+ - Wire up tool heads
+ - Automate paths and operation
 
 ### Done:
-The Team tightened up Farmbot and made sure nothing was loose, we then connected farmbot up to a mobile network to make sure 
+ - The Team tightened up Farmbot and made sure nothing was loose, we then connected farmbot up to a mobile network to make sure 
 all the parts worked. after fiddling around with the farmbot interface, we go it to move.
+ - 3d printing of weather resistant parts 99 percent complete.
 
 
