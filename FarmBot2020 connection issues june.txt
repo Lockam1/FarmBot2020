@@ -1,0 +1,6 @@
+Farmbot troubleshooting June 2020
+
+Raspberry pi no connection to farmduino
+https://github.com/FarmBot/farmbot_os/issues/451
+https://forum.farmbot.org/t/connection-issues-with-farmbot/3350/26
+https://forum.farmbot.org/t/farmbot-failed-to-boot-shutdown-unexpectedly-after-configuration/3356/6
