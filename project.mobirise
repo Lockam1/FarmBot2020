@@ -1106,7 +1106,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -2657,7 +2657,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "farmbotguide",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -3408,7 +3408,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "cncmachines",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -3869,7 +3869,7 @@
             }
           },
           "_name": "content10",
-          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"91\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"48\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><a href=\"https://en.wikipedia.org/wiki/Numerical_control\" target=\"_blank\">Numerical control (also computer numerical control, and commonly called CNC) is the automated control of machining tools (such as drills, boring tools, lathes) and 3D printers by means of a computer. A CNC machine processes a piece of material (metal, plastic, wood, ceramic, or composite) to meet specifications by following a coded programmed instruction and without a manual operator.</a><br><br></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"91\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"48\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>\"<a href=\"https://en.wikipedia.org/wiki/Numerical_control\" target=\"_blank\" class=\"text-white\">Numerical control (also computer numerical control, and commonly called CNC) is the automated control of machining tools (such as drills, boring tools, lathes) and 3D printers by means of a computer. A CNC machine processes a piece of material (metal, plastic, wood, ceramic, or composite) to meet specifications by following a coded programmed instruction and without a manual operator</a>\"<br></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
           "_anchor": "content10-3x",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -3916,7 +3916,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>&nbsp;</b></p><p>Here in the I.T. workshop we have a number of CNC Machines ranging from 3D printers to a laser cnc and also an etcher cnc</p><p><br></p><p><br></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>&nbsp;</b></p><p>Here in the I.T. workshop we have a number of CNC Machines ranging from 3D printers to a laser cnc and also an etcher cnc. &nbsp;</p><p>Our team utilised the inhouse equipment to our advantage in 3D printing parts for the farmbot project.</p><p><br></p><p><br></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-3y",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -4020,8 +4020,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2020-03-02-11.19.14-2000x11256.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2020-03-02-11.19.14-2000x1125-800x4500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020-03-02-11.19.14-2000x112518.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2020-03-02-11.19.14-2000x1125-800x45012.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -4033,8 +4033,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2020-03-02-11.19.19-2000x11257.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2020-03-02-11.19.19-2000x1125-800x4501.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020-03-02-11.19.19-2000x112519.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2020-03-02-11.19.19-2000x1125-800x45013.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -4046,8 +4046,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2020-03-05-09.17.24-2000x11258.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2020-03-05-09.17.24-2000x1125-800x4502.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020-03-05-09.17.24-2000x112520.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2020-03-05-09.17.24-2000x1125-800x45014.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -4059,8 +4059,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2020-03-05-09.21.19-2000x11259.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2020-03-05-09.21.19-2000x1125-800x4503.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020-03-05-09.21.19-2000x112521.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2020-03-05-09.21.19-2000x1125-800x45015.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -4072,8 +4072,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2020-03-19-19.34.05-2000x150010.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2020-03-19-19.34.05-2000x1500-800x6004.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020-03-19-19.34.05-2000x150022.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2020-03-19-19.34.05-2000x1500-800x60016.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -4085,8 +4085,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2020-03-19-19.47.47-2000x266711.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2020-03-19-19.47.47-2000x2667-800x10675.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020-03-19-19.47.47-2000x266723.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2020-03-19-19.47.47-2000x2667-800x106717.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
