@@ -2285,6 +2285,20 @@ section.lazy-placeholder:after {
   padding-bottom: 0px;
   background-color: #232323;
 }
+.cid-s1hw1SztoA {
+  background: #232323;
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #232323, #232323);
+}
+.cid-s1hw1SztoA .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-s1hw1SztoA .video-block {
+    width: 100% !important;
+  }
+}
 .cid-s1dKd6mOdd {
   padding-top: 30px;
   padding-bottom: 0px;
@@ -2296,6 +2310,9 @@ section.lazy-placeholder:after {
 }
 .cid-s1dKd6mOdd .mbr-text {
   color: #efefef;
+}
+.cid-s1dKd6mOdd .mbr-text P {
+  text-align: left;
 }
 .cid-s0I7aflHkO {
   padding-top: 45px;
