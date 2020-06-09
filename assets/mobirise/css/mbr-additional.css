@@ -2245,8 +2245,8 @@ section.lazy-placeholder:after {
 }
 .cid-s1dhz7GMMi {
   background: #232323;
-  padding-top: 60px;
-  padding-bottom: 0px;
+  padding-top: 45px;
+  padding-bottom: 15px;
   background: linear-gradient(45deg, #232323, #232323);
 }
 .cid-s1dhz7GMMi .image-block {
@@ -3342,4 +3342,9 @@ section.lazy-placeholder:after {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #232323, #45505b) !important;
+}
+.cid-s1oRli6e7L {
+  padding-top: 60px;
+  padding-bottom: 45px;
+  background-color: #232323;
 }
