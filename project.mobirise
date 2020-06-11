@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ProjectFarmbot2020",
-    "currentPage": "farmbot.html",
+    "currentPage": "cncmachines.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -44,7 +44,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 151,
+    "uniqCompNum": 152,
     "versionPublish": "4.12.1",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -56,9 +56,7 @@
     "noImageResize": "",
     "imageResize": true,
     "cookiesAlert": false,
-    "gdpr": false,
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "gdpr": false
   },
   "pages": {
     "index.html": {
@@ -2928,7 +2926,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/2020-06-10%2011.42.23-2000x2667.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020-06-10-11.42.23-2000x2667.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -2947,7 +2945,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screenshot_20200605-140954_chrome-720x1280.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-20200605-140954-chrome-720x1280.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2967,7 +2965,7 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2020-06-10%2011.28.53-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020-06-10-11.28.53-2000x1500.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2987,7 +2985,7 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2020-06-10%2011.00.21-2000x2667.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020-06-10-11.00.21-2000x2667.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -3095,7 +3093,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-white-outline\" href=\"index.html\" data-app-placeholder=\"Type Text\">HOME</a>\n                    <a class=\"btn btn-white-outline\" href=\"teamfarmbot.html\" data-app-placeholder=\"Type Text\">MEET THE TEAM</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-white-outline\" href=\"index.html\" data-app-placeholder=\"Type Text\">Home</a>\n                    <a class=\"btn btn-white-outline\" href=\"cncmachines.html\" data-app-placeholder=\"Type Text\">CNC Machines</a> <a class=\"btn btn-white-outline\" href=\"teamfarmbot.html\" data-app-placeholder=\"Type Text\">Meet the Team</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content8-3i",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -3846,11 +3844,29 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>&nbsp;</b></p><p><br></p><p>Farmbot is to be connected to the OP-Mobile network using the psk of \"bpdyHDPnBjWR\"\n</p><p>The key used above is specific to the Farmbot MAC address<b><i> (if you purchase a new pi for Farmbot you will have to request a new key for that pi's MAC address)</i></b>, this key will place the device on vlan 35 of OP-Mobile which gives the device unrestricted port access.</p><p>The students will then connect their devices to the \"eduroam\" network using their polytech login - student i.e. pangdw1@op.ac.nz instead of pangdw1@student.op.ac.nz\n</p><p>The password is also the same as their polytech password.</p><p>\n</p><p>From a fresh install you will need to:</p><p>Part One:\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- Connect to the Farmbot Wi-Fi\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- Open a browser and enter 192.168.24.1 to connect to Farmbot\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- Choose Wi-Fi\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- Because for some reason when you see the available networks there will be no key required for the OP-Mobile &nbsp;&nbsp;&nbsp;&nbsp;network you will instead have to. Click on manual input and type in \"OP-&nbsp;&nbsp;&nbsp;&nbsp;Mobile\"\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- You will then be asked to put in a key (use the key listed above in quotes\"\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- You will then be asked to supply a Farmbot account, whichever account you use in this step will need to be shared with the Farmbot group as they will need to use that account in order to connect\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- Farmbot will then proceed to connect to the OP-Mobile network\n</p><p>Part Two:\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- The students will then need to connect to the eduroam network on their device\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- Once connected you can then enter \"my.farm.bot\" *you could change the name when you first set the Farmbot up &nbsp;&nbsp;&nbsp;&nbsp;but how many Farmbot will there be at polytech* into your devices web browser to connect to Farmbot\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- Once on the Farmbot browser you will need to go to the device tab and change it to the Arduino/RAMPS firmware\n</p><p>One might think because the Farmbot is on OP-Mobile and the device is in eduroam network that they won’t be able to connect but they can \n</p><p><br></p><p><br></p><p><br></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>&nbsp;</b></p><p><br></p><p>Farmbot is to be connected to the OP-Mobile network using the psk of \"bpdyHDPnBjWR\"\n</p><p>The key used above is specific to the Farmbot MAC address<b><i> (if you purchase a new pi for Farmbot you will have to request a new key for that pi's MAC address)</i></b>, this key will place the device on vlan 35 of OP-Mobile which gives the device unrestricted port access.</p><p>The students will then connect their devices to the \"eduroam\" network using their polytech login - student i.e. pangdw1@op.ac.nz instead of pangdw1@student.op.ac.nz\n</p><p>The password is also the same as their polytech password.</p><p>\n</p><p>From a fresh install you will need to:</p><p>Part One:\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- Connect to the Farmbot Wi-Fi\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- Open a browser and enter 192.168.24.1 to connect to Farmbot\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- Choose Wi-Fi\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- Because for some reason when you see the available networks there will be no key required for the OP-Mobile &nbsp;&nbsp;&nbsp;&nbsp;network you will instead have to. Click on manual input and type in \"OP-&nbsp;&nbsp;&nbsp;&nbsp;Mobile\"\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- You will then be asked to put in a key (use the key listed above in quotes\"\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- You will then be asked to supply a Farmbot account, whichever account you use in this step will need to be shared with the Farmbot group as they will need to use that account in order to connect\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- Farmbot will then proceed to connect to the OP-Mobile network\n</p><p>Part Two:\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- The students will then need to connect to the eduroam network on their device\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- Once connected you can then enter \"my.farm.bot\" *you could change the name when you first set the Farmbot up &nbsp;&nbsp;&nbsp;&nbsp;but how many Farmbot will there be at polytech* into your devices web browser to connect to Farmbot\n</p><p>&nbsp;&nbsp;&nbsp;&nbsp;- Once on the Farmbot browser you will need to go to the device tab and change it to the Arduino/RAMPS firmware\n</p><p>One might think because the Farmbot is on OP-Mobile and the device is in eduroam network that they won’t be able to connect but they can.</p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-2m",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "s0eKw95T9D",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content8",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons=\"\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-white-outline\" href=\"index.html\" data-app-placeholder=\"Type Text\">Home</a>\n                    <a class=\"btn btn-white-outline\" href=\"cncmachines.html\" data-app-placeholder=\"Type Text\">CNC Machines</a> <a class=\"btn btn-white-outline\" href=\"teamfarmbot.html\" data-app-placeholder=\"Type Text\">Meet the Team</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content8-47",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "s1z6biXGp9",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -4568,7 +4584,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2020-06-10%2010.12.22-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020-06-10-10.12.22-2000x1500.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2020-06-10-10.12.22-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
@@ -4581,7 +4597,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2020-06-10%2010.12.49-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020-06-10-10.12.49-2000x1500.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2020-06-10-10.12.49-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
@@ -4594,7 +4610,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2020-06-10%2010.44.15-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020-06-10-10.44.15-2000x1500.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2020-06-10-10.44.15-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
@@ -4607,7 +4623,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2020-06-10%2011.40.57-2000x2667.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020-06-10-11.40.57-2000x2667.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2020-06-10-11.40.57-2000x2667-800x1067.jpg",
                 "alt": "",
                 "title": "",
@@ -4620,7 +4636,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2020-06-10%2011.41.04-2000x2667.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020-06-10-11.41.04-2000x2667.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2020-06-10-11.41.04-2000x2667-800x1067.jpg",
                 "alt": "",
                 "title": "",
