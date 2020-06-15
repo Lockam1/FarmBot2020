@@ -73,5 +73,7 @@ all the parts worked. after fiddling around with the farmbot interface, we go it
  - plug and power on machine of choice.
  - connect the machine via USB cable to the computer.
  - In the GRBL software the the machine should automatically connect and the 'send, pause and abort' buttons should be available.
+ - If GRBL software dosnt connect open device manager(windows) and find the com port the usb is conneted to. 
+ - Then go into GRBL, click Service, then settings, the connection and type in the correct port. 
  - Use the above buttons to control the machine.
 
