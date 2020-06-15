@@ -1,5 +1,6 @@
 # FarmBot 2020 Repo
 
+# Farmbot
 
 ## Original FarmBot GitLab repo.
 https://gitlab.op-bit.nz/BIT/Project/FarmBot/FarmbotWiki
@@ -60,4 +61,17 @@ Woody
 all the parts worked. after fiddling around with the farmbot interface, we go it to move.
  - 3d printing of weather resistant parts 99 percent complete.
 
+# CNC Machines
+
+## Set up
+ - Open the folder containing the driver and the GRBL software.
+ - Install the driver first then the software.
+ - Install a third software for choice i.e. Scan2Cad (for converting images to the .nc file type that GRBL uses)
+ - Use the third party software to creat the needed .nc file type for the machines.
+ - Vectorizes and save the file you have just created.
+ - Open the GRBL software and then open the .nc file you have created (this should bring up the image you just saved and have a  scrollable list of gcode line below which the machines will use to naviagte)
+ - plug and power on machine of choice.
+ - connect the machine via USB cable to the computer.
+ - In the GRBL software the the machine should automatically connect and the 'send, pause and abort' buttons should be available.
+ - Use the above buttons to control the machine.
 
