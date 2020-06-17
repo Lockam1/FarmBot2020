@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ProjectFarmbot2020",
-    "currentPage": "farmbot.html",
+    "currentPage": "teamfarmbot.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -44,7 +44,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 157,
+    "uniqCompNum": 156,
     "versionPublish": "4.12.1",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -56,7 +56,9 @@
     "noImageResize": "",
     "imageResize": true,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -2624,7 +2626,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>&nbsp;</b></p><p>As we returned from being on lockdown. &nbsp;We booted up farmbot to find that communication is failing. &nbsp;There is no connection with raspberry pi and farmduino.</p><p>We aquired another mega and assembled everything back and connected to farmbot only to get no connection.</p><p>We changed usb cable and the mega 2650 board.</p><p>Next step is to flash the farmduino to allow connection to the Raspberry Pi.</p><p><b><i>NOTE: &nbsp;As the team went over the configuration steps to connect, we found the wifi settings 'security type' is WPA not WPA2-PSK which meant no connection. &nbsp;The team reset the security type to WPA and it was good to go.</i></b></p><p>farmbot tool head wiring was also completed.</p><p><br></p><p><br></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>&nbsp;</b></p><p>As we returned from being on lockdown. &nbsp;We booted up farmbot to find that communication is failing. &nbsp;There is no connection with raspberry pi and farmduino.</p><p>We aquired another mega and assembled everything back and connected to farmbot only to get no connection.</p><p>We changed usb cable and the mega 2650 board.</p><p>Next step is to flash the farmduino to allow connection to the Raspberry Pi.</p><p><b><i>NOTE: &nbsp;As the team went over the configuration steps to connect, we found the wifi settings to farmbot were not WPA2-PSK which meant no connection. &nbsp;The team reset the security type and it was good to go.</i></b></p><p>farmbot tool head wiring was also completed.</p><p><br></p><p><br></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-42",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -2926,7 +2928,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/2020-06-10-11.42.23-2000x2667.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020-06-10%2011.42.23-2000x2667.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -2945,7 +2947,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/screenshot-20200605-140954-chrome-720x1280.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot_20200605-140954_chrome-720x1280.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2965,7 +2967,7 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2020-06-10-11.28.53-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020-06-10%2011.28.53-2000x1500.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2985,7 +2987,7 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2020-06-10-11.00.21-2000x2667.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020-06-10%2011.00.21-2000x2667.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -3033,11 +3035,11 @@
           "_name": "video3",
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"3\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"56\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://youtu.be/NKOJA_PgDlc?loop=0&autoplay=1\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
           "_cid": "s27EC17c14",
-          "_anchor": "video3-48",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_anchor": "video3-48"
         },
         {
           "alias": false,
@@ -3671,7 +3673,7 @@
             }
           },
           "_name": "content12",
-          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#ffffff\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" condition=\"stylizedCounters\" checked>\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <div><b><i><br></i></b></div><ul>\n                    \n                    <li><b><i>Flash a fresh Farmbot OS onto the SD Card\n</i></b></li><li><b><i>Insert SD Card into Farmbot Device\n</i></b></li><li><b><i>&nbsp;Power on Farmbot Device\n</i></b></li><li><b><i>&nbsp;On your mobile/laptop device go to Wi-Fi and select Farmbot\n</i></b></li><li><b><i>Go to your browser and enter 192.168.24.1\n</i></b></li><li><b><i>Select Wi-Fi option\n</i></b></li><li><b><i>Click on manual input and enter “OP-Mobile”\n</i></b></li><li><b><i>Use the key “bpdyHDPnBjWR”\n</i></b></li><li><b><i>Make sure 'security type' is WPA not WPA2-PSK</i></b></li><li><b><i>Enter your Farmbot account\n</i></b></li><li><b><i>Farmbot will now deactivate its own Wi-Fi and connect to OP-Mobile\n</i></b></li><li><b><i>&nbsp;Connect to “eduroam” on your mobile/laptop device\n</i></b></li><li><b><i>Open a browser and go to “my.farm.bot”\n</i></b></li><li><b><i>Wait for it to sync\n</i></b></li><li><b><i>Go to device tab and select the Arduino/RAMPS firmware\n</i></b></li><li><b><i>Wait for it to install may take a minute or two\n</i></b></li><li><b><i>You’re a go\nat (greatest of all time)</i></b></li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#ffffff\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" condition=\"stylizedCounters\" checked>\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <div><b><i><br></i></b></div><ul>\n                    \n                    <li><b><i>Flash a fresh Farmbot OS onto the SD Card\n</i></b></li><li><b><i>Insert SD Card into Farmbot Device\n</i></b></li><li><b><i>&nbsp;Power on Farmbot Device\n</i></b></li><li><b><i>&nbsp;On your mobile/laptop device go to Wi-Fi and select Farmbot\n</i></b></li><li><b><i>Go to your browser and enter 192.168.24.1\n</i></b></li><li><b><i>Select Wi-Fi option\n</i></b></li><li><b><i>Click on manual input and enter “OP-Mobile”\n</i></b></li><li><b><i>Use the key “bpdyHDPnBjWR”\n</i></b></li><li><b><i>Enter your Farmbot account\n</i></b></li><li><b><i>Farmbot will now deactivate its own Wi-Fi and connect to OP-Mobile\n</i></b></li><li><b><i>&nbsp;Connect to “eduroam” on your mobile/laptop device\n</i></b></li><li><b><i>Open a browser and go to “my.farm.bot”\n</i></b></li><li><b><i>Wait for it to sync\n</i></b></li><li><b><i>Go to device tab and select the Arduino/RAMPS firmware\n</i></b></li><li><b><i>Wait for it to install may take a minute or two\n</i></b></li><li><b><i>You’re a go\nat (greatest of all time)</i></b></li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content12-2l",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
@@ -4616,7 +4618,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2020-06-10-10.12.22-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020-06-10%2010.12.22-2000x1500.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2020-06-10-10.12.22-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
@@ -4629,7 +4631,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2020-06-10-10.12.49-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020-06-10%2010.12.49-2000x1500.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2020-06-10-10.12.49-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
@@ -4642,7 +4644,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2020-06-10-10.44.15-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020-06-10%2010.44.15-2000x1500.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2020-06-10-10.44.15-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
@@ -4655,7 +4657,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2020-06-10-11.40.57-2000x2667.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020-06-10%2011.40.57-2000x2667.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2020-06-10-11.40.57-2000x2667-800x1067.jpg",
                 "alt": "",
                 "title": "",
@@ -4668,7 +4670,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/2020-06-10-11.41.04-2000x2667.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2020-06-10%2011.41.04-2000x2667.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2020-06-10-11.41.04-2000x2667-800x1067.jpg",
                 "alt": "",
                 "title": "",
@@ -4810,43 +4812,11 @@
           "_name": "image3",
           "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Width\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"69\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#cc2952\" condition=\"gradientBg && fullWidth==false\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <img src=\"@PROJECT_PATH@/assets/images/20200617-100351-1266x712.jpg\" width=\"1400\" alt=\"Mobirise\" title>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Create awesome websites!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
           "_cid": "s27IzP4FAt",
-          "_anchor": "image3-4b",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "background": "@bgColor",
-            "& when (@fullWidth = false)": {
-              "padding-top": "(@paddingTop * 15px)",
-              "padding-bottom": "(@paddingBottom * 15px)"
-            },
-            "& when (@gradientBg)": {
-              "background": "linear-gradient(0deg, @bgColor, @color2)"
-            },
-            ".video-block": {
-              "margin": "auto",
-              "& when (@fullWidth)": {
-                "width": "100% !important"
-              }
-            },
-            "@media (max-width: 768px)": {
-              ".video-block": {
-                "width": "100% !important"
-              }
-            }
-          },
-          "_name": "video3",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n    <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n\n    <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"0\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n    <input type=\"range\" inline title=\"Width\" name=\"videoSize\" min=\"20\" max=\"100\" value=\"69\" step=\"1\" condition=\"fullWidth==false\">\n\n    <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\" condition=\"fullWidth==false\">\n    <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n    <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#ffffff\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <figure class=\"mbr-figure align-center\" mbr-class=\"{'container':fullWidth==false}\">\n        <div class=\"video-block\" mbr-style=\"{'width':videoSize+'%'}\">\n            <div mbr-video>\n                <iframe src=\"https://youtu.be/6-SdzFu_6T0?loop=0&autoplay=0\"></iframe>\n            </div>\n        </div>\n    </figure>\n</section>",
-          "_cid": "s28atmvuIP",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {},
-          "_anchor": "video3-4c"
+          "_anchor": "image3-4b"
         },
         {
           "alias": false,

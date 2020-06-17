@@ -3757,6 +3757,19 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-s28atmvuIP {
+  background: #232323;
+  padding-top: 0px;
+  padding-bottom: 60px;
+}
+.cid-s28atmvuIP .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-s28atmvuIP .video-block {
+    width: 100% !important;
+  }
+}
 .cid-s1oRli6e7L {
   padding-top: 60px;
   padding-bottom: 45px;
