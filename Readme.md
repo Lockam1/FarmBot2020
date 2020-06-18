@@ -86,3 +86,6 @@ all the parts worked. after fiddling around with the farmbot interface, we go it
  - lazer cutter should be connected, if not restart computer(This is for issues with com port)
  - Use the on screen controls to move the cutter to a home point and set home.
  - click send to start gcode script.
+ 
+ - ### Current bugs
+ - gcode is not telling lazer to tun off inbetween lines, and drags its self to the next position.
