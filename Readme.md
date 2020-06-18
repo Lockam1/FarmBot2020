@@ -76,4 +76,13 @@ all the parts worked. after fiddling around with the farmbot interface, we go it
  - If GRBL software dosnt connect open device manager(windows) and find the com port the usb is conneted to. 
  - Then go into GRBL, click Service, then settings, the connection and type in the correct port. 
  - Use the above buttons to control the machine.
-
+ 
+ ### Lazer cutter specific
+  WARNING:::WEAR LAZER GLASSES:::WARNING
+ - create a file in InkScape, and follow this tutorial to generate the Gcode https://winder.github.io/ugs_website/
+ - https://www.ctoom.com/tutorial/how-to-create-g-code-file-with-inkscape/
+ - Once the gcode is generated,
+ - move onto thehardware computer and import the gcode file into the unerversalGcodeSender java app
+ - lazer cutter should be connected, if not restart computer(This is for issues with com port)
+ - Use the on screen controls to move the cutter to a home point and set home.
+ - click send to start gcode script.
