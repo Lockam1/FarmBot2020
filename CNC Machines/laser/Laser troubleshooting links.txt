@@ -1,0 +1,4 @@
+Youtube:  https://www.youtube.com/playlist?list=PLg8S4Ty4sblghujePF6ckf-c18jc3hL43
+
+Laser issues
+https://github.com/arkypita/LaserGRBL/issues/23
